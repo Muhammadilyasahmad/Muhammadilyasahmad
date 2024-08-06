@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadilyasahmad&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadilyasahmad" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **MERN**
 
