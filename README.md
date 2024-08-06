@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **altafilyas96@gmail.com**
 
