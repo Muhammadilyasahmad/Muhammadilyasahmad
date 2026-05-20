@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadilyasahmad&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadilyasahmad" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK Development**
+- 🌱 I’m currently Working on**WordPress and Divi Theme**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **WordPress**
 
 - 📫 How to reach me **altafilyas96@gmail.com**
 
