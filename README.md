@@ -27,24 +27,29 @@
   <img src="https://cdn.simpleicons.org/elementor" alt="elementor" width="45" height="45"/>
 </a>
 
+<!-- Yoast SEO -->
+<a href="https://yoast.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/yoast" alt="yoast" width="45" height="45"/>
+</a>
+
+<!-- HTML -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+</a>
+
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+</a>
+
+<!-- PHP -->
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</a>
+
 <!-- WooCommerce -->
 <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/woocommerce" alt="woocommerce" width="45" height="45"/>
-</a>
-
-<!-- Divi Four -->
-<a href="https://www.elegantthemes.com/gallery/divi/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/wordpress.png" alt="divi four" width="45" height="45"/>
-</a>
-
-<!-- Divi Five -->
-<a href="https://www.elegantthemes.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/wordpress.png" alt="divi five" width="45" height="45"/>
-</a>
-
-<!-- Yoast SEO -->
-<a href="https://yoast.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/yoast" alt="yoast seo" width="45" height="45"/>
 </a>
 
 <!-- Google Analytics -->
