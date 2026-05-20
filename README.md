@@ -17,45 +17,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  <!-- WordPress -->
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  </a>
+<!-- WordPress -->
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="45" height="45"/>
+</a>
 
-  <!-- Elementor -->
-  <a href="https://elementor.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Elementor_Logo_Icon.png" alt="elementor" width="40" height="40"/>
-  </a>
+<!-- Elementor -->
+<a href="https://elementor.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/elementor" alt="elementor" width="45" height="45"/>
+</a>
 
-  <!-- Elementor Pro -->
-  <a href="https://elementor.com/pro/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Elementor_Logo_Icon.png" alt="elementor-pro" width="40" height="40"/>
-  </a>
+<!-- WooCommerce -->
+<a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/woocommerce" alt="woocommerce" width="45" height="45"/>
+</a>
 
-  <!-- WooCommerce -->
-  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="woocommerce" width="40" height="40"/>
-  </a>
+<!-- Divi Four -->
+<a href="https://www.elegantthemes.com/gallery/divi/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/wordpress.png" alt="divi four" width="45" height="45"/>
+</a>
 
-  <!-- Divi -->
-  <a href="https://www.elegantthemes.com/gallery/divi/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/divi.svg" alt="divi" width="40" height="40"/>
-  </a>
+<!-- Divi Five -->
+<a href="https://www.elegantthemes.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/wordpress.png" alt="divi five" width="45" height="45"/>
+</a>
 
-  <!-- WPBakery -->
-  <a href="https://wpbakery.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/W/wpbakery-logo-4A192BFE31-seeklogo.com.png" alt="wpbakery" width="40" height="40"/>
-  </a>
+<!-- Yoast SEO -->
+<a href="https://yoast.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/yoast" alt="yoast seo" width="45" height="45"/>
+</a>
 
-  <!-- Yoast SEO -->
-  <a href="https://yoast.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Yoast_SEO_logo.png" alt="yoast-seo" width="40" height="40"/>
-  </a>
-
-  <!-- Google Analytics -->
-  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google-analytics" width="40" height="40"/>
-  </a>
+<!-- Google Analytics -->
+<a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/googleanalytics" alt="google analytics" width="45" height="45"/>
+</a>
 
 </p>
 
